@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.vector123.com/"/>
-  <updated>2018-04-10T14:35:51.215Z</updated>
+  <updated>2018-05-09T14:20:19.908Z</updated>
   <id>http://www.vector123.com/</id>
   
   <author>
@@ -17,17 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>压缩 Android Sutdio 项目中必要文件脚本</title>
-    <link href="http://www.vector123.com/2018/03/27/%E5%8E%8B%E7%BC%A9-Android-Sutdio-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%BF%85%E8%A6%81%E6%96%87%E4%BB%B6%E8%84%9A%E6%9C%AC/"/>
-    <id>http://www.vector123.com/2018/03/27/压缩-Android-Sutdio-项目中必要文件脚本/</id>
-    <published>2018-03-26T16:00:00.000Z</published>
-    <updated>2018-04-10T14:35:51.215Z</updated>
+    <title>生活与算法</title>
+    <link href="http://www.vector123.com/2018/05/09/%E7%94%9F%E6%B4%BB%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
+    <id>http://www.vector123.com/2018/05/09/生活与算法/</id>
+    <published>2018-05-09T14:17:35.000Z</published>
+    <updated>2018-05-09T14:20:19.908Z</updated>
     
-    <content type="html"><![CDATA[<p>有时候，要手动备份 Android Studio 项目源码，但整个工程中有很多不需要的文件，如：.idea、.git、build、*.iml 等，若全部备份，文件体积很大，占用空间。为了让备份更加无痛，写了一个 python 脚本，只备份必要的文件。</p><a id="more"></a>]]></content>
+    <content type="html"><![CDATA[<ol><li>煮饭做菜运用贪心算法，充分利用多进程并行的优势，用最少时间完成烹饪。</li><li>扫地使用分治算法，分而治之，逐块解决。</li><li>批量处理生产效率更高，设置一缓冲区，缓冲区满时，集中进行处理。</li><li>收纳物品与扔东西，可参考缓存淘汰算法——LRU，近期使用频率低的物品收起，扔东西也是同样如此。</li><li>哈夫曼编码给最常用的字符最短的编码，最常用的东西放在最显眼、最方便触及的地方。</li></ol><p>————————完————————</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;有时候，要手动备份 Android Studio 项目源码，但整个工程中有很多不需要的文件，如：.idea、.git、build、*.iml 等，若全部备份，文件体积很大，占用空间。为了让备份更加无痛，写了一个 python 脚本，只备份必要的文件。&lt;/p&gt;
+      &lt;ol&gt;
+&lt;li&gt;煮饭做菜运用贪心算法，充分利用多进程并行的优势，用最少时间完成烹饪。&lt;/li&gt;
+&lt;li&gt;扫地使用分治算法，分而治之，逐块解决。&lt;/li&gt;
+&lt;li&gt;批量处理生产效率更高，设置一缓冲区，缓冲区满时，集中进行处理。&lt;/li&gt;
+&lt;li&gt;收纳物品与扔东西，可参考缓存淘汰算法——LRU，近期使用频率低的物品收起，扔东西也是同样如此。&lt;/li&gt;
+&lt;li&gt;哈夫曼编码给最常用的字符最短的编码，最常用的东西放在最显眼、最方便触及的地方。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;————————完————————&lt;/p&gt;
     
     </summary>
     
