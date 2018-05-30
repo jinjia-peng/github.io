@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.vector123.com/"/>
-  <updated>2018-05-30T15:58:04.987Z</updated>
+  <updated>2018-05-30T16:03:10.654Z</updated>
   <id>http://www.vector123.com/</id>
   
   <author>
@@ -21,15 +21,14 @@
     <link href="http://www.vector123.com/2018/05/30/%E5%AE%9A%E6%97%B6%E8%84%9A%E6%9C%AC%E4%BB%BB%E5%8A%A1%E4%B8%AD%E6%9E%A2BitBar/"/>
     <id>http://www.vector123.com/2018/05/30/定时脚本任务中枢BitBar/</id>
     <published>2018-05-30T15:52:27.000Z</published>
-    <updated>2018-05-30T15:58:04.987Z</updated>
+    <updated>2018-05-30T16:03:10.654Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://getbitbar.com/" target="_blank" rel="noopener">BitBar</a> 是一款可以将脚本程序的内容输出显示在 macOS 菜单栏中的免费开源应用。设定好脚本存放的位置，按快捷键 <code>Command + R</code> 可立即执行脚本程序。更实用的功能是，能设置脚本自动执行的刷新频率。设置脚本程序刷新频率的方法是按格式命名脚本文件名，格式是 <code>{插件名}.{刷新频率}.{插件名}</code>，例如：<code>GetTlbcPlugin.1h.sh</code> 会每小时刷新一次。脚本程序还能自定义菜单栏背景色、字体、颜色，大小等属性，支持 Emoji 和图片，满足对 UI 有要求的用户。BitBar 应用的可供性取决于用户诉求和实现能力，支持 Apple Script、Python、JavaScript、CoffeeScript、Go、PHP、Lisp、Perl5 等众多语言。对于重复性的工作，转化成脚本替代低效繁琐的操作，BitBar 可以定时执行你的设定。<br><img src="https://camo.githubusercontent.com/5cec3248a9fc4eede235ead682a65f977577f670/68747470733a2f2f7261772e6769746875622e636f6d2f6d6174727965722f6269746261722f6d61737465722f446f63732f4269744261722d4578616d706c652d4d656e752e706e67" alt="BitBar 应用截图"><br><br></p><p><strong>陀螺财经</strong>是一位朋友做的一款区块链媒体平台，对<strong>区块链</strong>感兴趣的同学可以关注下。陀螺财经 App 中有一种陀螺块（TLBC）的数字资产，陀螺块是基于个人在陀螺星球活动产生的奖励。陀螺块必须在 48 小时内采集，否则会停止生成。采集这些陀螺块的操作又是无趣的。问题来了，想要自动化采集怎么办？不要等，马上动手。借助抓包软件 <a href="https://www.charlesproxy.com/" target="_blank" rel="noopener">Charles</a> 轻松取得【获取陀螺块】【采集陀螺块】HTTPS API 接口，再用 Python 调用这些接口，程序每8小时自动采集。<strong>懒是一种追求，能让机器干的，人就不要动手了。</strong></p><p>————————End————————</p><a id="more"></a>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://getbitbar.com/" target="_blank" rel="noopener">BitBar</a> 是一款可以将脚本程序的内容输出显示在 macOS 菜单栏中的免费开源应用。设定好脚本存放的位置，按快捷键 <code>Command + R</code> 可立即执行脚本程序。更实用的功能是，能设置脚本自动执行的刷新频率。设置脚本程序刷新频率的方法是按格式命名脚本文件名，格式是 <code>{插件名}.{刷新频率}.{插件名}</code>，例如：<code>GetTlbcPlugin.1h.sh</code> 会每小时刷新一次。脚本程序还能自定义菜单栏背景色、字体、颜色，大小等属性，支持 Emoji 和图片，满足对 UI 有要求的用户。BitBar 应用的可供性取决于用户诉求和实现能力，支持 Apple Script、Python、JavaScript、CoffeeScript、Go、PHP、Lisp、Perl5 等众多语言。对于重复性的工作，转化成脚本替代低效繁琐的操作，BitBar 可以定时执行你的设定。<br><img src="https://camo.githubusercontent.com/5cec3248a9fc4eede235ead682a65f977577f670/68747470733a2f2f7261772e6769746875622e636f6d2f6d6174727965722f6269746261722f6d61737465722f446f63732f4269744261722d4578616d706c652d4d656e752e706e67" alt="BitBar 应用截图"><br><br></p><p><strong>陀螺财经</strong>是一位朋友做的一款区块链媒体平台，对<strong>区块链</strong>感兴趣的同学可以关注下。陀螺财经 App 中有一种陀螺块（TLBC）的数字资产，陀螺块是基于个人在陀螺星球活动产生的奖励。陀螺块必须在 48 小时内采集，否则会停止生成。采集这些陀螺块的操作又是无趣的。问题来了，想要自动化采集怎么办？不要等，马上动手。借助抓包软件 <a href="https://www.charlesproxy.com/" target="_blank" rel="noopener">Charles</a> 轻松取得【获取陀螺块】【采集陀螺块】HTTPS API 接口，再用 Python 调用这些接口，程序每8小时自动采集。<strong>懒是一种追求，能让机器干的，人就不要动手了。</strong></p><a id="more"></a>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;a href=&quot;https://getbitbar.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;BitBar&lt;/a&gt; 是一款可以将脚本程序的内容输出显示在 macOS 菜单栏中的免费开源应用。设定好脚本存放的位置，按快捷键 &lt;code&gt;Command + R&lt;/code&gt; 可立即执行脚本程序。更实用的功能是，能设置脚本自动执行的刷新频率。设置脚本程序刷新频率的方法是按格式命名脚本文件名，格式是 &lt;code&gt;{插件名}.{刷新频率}.{插件名}&lt;/code&gt;，例如：&lt;code&gt;GetTlbcPlugin.1h.sh&lt;/code&gt; 会每小时刷新一次。脚本程序还能自定义菜单栏背景色、字体、颜色，大小等属性，支持 Emoji 和图片，满足对 UI 有要求的用户。BitBar 应用的可供性取决于用户诉求和实现能力，支持 Apple Script、Python、JavaScript、CoffeeScript、Go、PHP、Lisp、Perl5 等众多语言。对于重复性的工作，转化成脚本替代低效繁琐的操作，BitBar 可以定时执行你的设定。&lt;br&gt;&lt;img src=&quot;https://camo.githubusercontent.com/5cec3248a9fc4eede235ead682a65f977577f670/68747470733a2f2f7261772e6769746875622e636f6d2f6d6174727965722f6269746261722f6d61737465722f446f63732f4269744261722d4578616d706c652d4d656e752e706e67&quot; alt=&quot;BitBar 应用截图&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;陀螺财经&lt;/strong&gt;是一位朋友做的一款区块链媒体平台，对&lt;strong&gt;区块链&lt;/strong&gt;感兴趣的同学可以关注下。陀螺财经 App 中有一种陀螺块（TLBC）的数字资产，陀螺块是基于个人在陀螺星球活动产生的奖励。陀螺块必须在 48 小时内采集，否则会停止生成。采集这些陀螺块的操作又是无趣的。问题来了，想要自动化采集怎么办？不要等，马上动手。借助抓包软件 &lt;a href=&quot;https://www.charlesproxy.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Charles&lt;/a&gt; 轻松取得【获取陀螺块】【采集陀螺块】HTTPS API 接口，再用 Python 调用这些接口，程序每8小时自动采集。&lt;strong&gt;懒是一种追求，能让机器干的，人就不要动手了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;————————End————————&lt;/p&gt;
     
     </summary>
     
